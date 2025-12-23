@@ -1,8 +1,0 @@
-{
-  "reweites": [
-    {
-        "source": "/(.*)",
-        "destination": "/"
-    }
-  ]
-}
