@@ -53,3 +53,6 @@ if(process.env.NODE_ENV !== "production"){
     const PORT = process.env.PORT || 5000;
     server.listen(PORT, ()=> console.log("Server is running on PORT: " + PORT));
 }
+
+// export server for server
+export default server;
